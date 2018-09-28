@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YAMLite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/YAMLite_jar</output-path>
+    <root id="archive" name="YAMLite.jar">
+      <element id="module-output" name="YAMLite" />
+    </root>
+  </artifact>
+</component>

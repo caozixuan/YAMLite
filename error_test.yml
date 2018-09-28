@@ -1,0 +1,9 @@
+test: "dreamland"
+float: 23.33
+# 科学计数法错误
+scientific: 2.3e
+# 浮点数错误
+double: 23ab
+
+
+ 
